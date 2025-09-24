@@ -44,7 +44,7 @@ To suit your preferred mode of learning, the content is now available via severa
 
 ### Push Notifications
 
-To stay informed of future live training sessions, new video releases, and book chapter releases, consider signing up for Jon Krohn's [email newsletter via his homepage](https://www.jonkrohn.com/).
+To stay informed of Future Live training sessions, new video releases, and book chapter releases, consider signing up for Jon Krohn's [email newsletter via his homepage](https://www.jonkrohn.com/).
 
 ### Notebooks
 
